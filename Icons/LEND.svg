@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="lend-a" x1="0%" x2="100%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#20AEC7"/>
+      <stop offset="100%" stop-color="#2A90C8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#lend-a)" fill-rule="nonzero" d="M24,0 C10.7454915,0 0,10.7454915 0,24 C0,37.2545085 10.7454915,48 24,48 C37.2545085,48 48,37.2545085 48,24 L48,23.9853559 C47.992678,10.7389831 37.2496271,0 24,0 Z"/>
+    <polygon fill="#FFF" fill-rule="nonzero" points="16.379 41.43 13.447 38.481 20.322 31.608 13.447 24.732 16.384 21.792 26.197 31.603"/>
+    <polygon fill="#FFF" fill-rule="nonzero" points="27.438 30.36 17.626 20.547 20.555 17.618 30.364 27.434"/>
+    <polygon fill="#FFF" fill-rule="nonzero" points="34.559 23.259 31.617 26.192 21.803 16.379 31.617 6.567 34.559 9.503 27.685 16.377"/>
+  </g>
+</svg>
