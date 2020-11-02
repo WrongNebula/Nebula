@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7">
+  <defs>
+    <filter id="chevron-down-copy-a">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#chevron-down-copy-a)" transform="translate(-3 -5.5)">
+    <path fill="#FFF" d="M12.78,6.22 C13.0724534,6.51281755 13.0724534,6.98718245 12.78,7.28 L8.53,11.53 C8.23718245,11.8224534 7.76281755,11.8224534 7.47,11.53 L3.22,7.28 C2.94464114,6.98449025 2.95276612,6.52399028 3.2383782,6.2383782 C3.52399028,5.95276612 3.98449025,5.94464114 4.28,6.22 L8,9.94 L11.72,6.22 C12.0128175,5.92754662 12.4871825,5.92754662 12.78,6.22 Z"/>
+    <rect width="16" height="16"/>
+  </g>
+</svg>
